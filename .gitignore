@@ -1,0 +1,5 @@
+client-count
+*.conf
+*.key
+*.psk
+*.pub
